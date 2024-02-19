@@ -18,7 +18,7 @@ function enviarSaludoAPersona() {
     // Comprobar si se ingresó un nombre
     if (nombre != null && nombre != "") {
         // Mostrar el saludo con el nombre ingresado
-        alert("¡Hola, " + nombre + "! Bienvenido.");
+        alert("¡Hola, " + nombre + "! ¡Lindo día!");
     } else {
         // Mostrar un mensaje si no se ingresó un nombre
         alert("No ingresaste ningún nombre. Por favor, intenta de nuevo.");
